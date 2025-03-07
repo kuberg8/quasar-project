@@ -37,7 +37,7 @@ const linksList: EssentialLinkProps[] = [
   },
   {
     title: 'Github',
-    caption: 'github.com/quasarframework',
+    caption: 'github.com/kuberg8',
     icon: 'code',
     link: 'https://github.com/kuberg8?tab=repositories',
   },
