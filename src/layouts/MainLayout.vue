@@ -18,7 +18,7 @@
       </q-list>
     </q-drawer>
 
-    <q-page-container style="display: flex; min-height: 100vh">
+    <q-page-container>
       <router-view />
     </q-page-container>
   </q-layout>
